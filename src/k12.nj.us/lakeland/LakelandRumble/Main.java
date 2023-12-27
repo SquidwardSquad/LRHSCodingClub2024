@@ -9,7 +9,7 @@ public class Main {
         window = new JFrame();
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
-        window.setTitle("Test Window");
+        window.setTitle("Coding Club 2024");
 
         window.pack();
 
@@ -17,6 +17,7 @@ public class Main {
         window.setVisible(true);
     }
 
+    /* 
     public void input()
     {
 
@@ -31,4 +32,5 @@ public class Main {
     {
       
     }
+    */
   }
